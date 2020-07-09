@@ -1,5 +1,4 @@
 {
     "name": "line bot - LINE Messaging API",
-    "description": "This is a sample application for the LINE Messaging API",
-    "keywords": ["chatbot", "line", "node.js"]
+    "description": "This is a sample application for the LINE Messaging API"
 }
